@@ -1,0 +1,104 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+.contact_information { 
+	display: flex !important;
+	width:100% !important;
+	flex-direction: column !important;
+	flex-wrap: wrap !important;
+}
+
+ul.contact_information li.item-ci {
+	list-style:none !important;	
+	padding-top:0px !important;
+	padding-bottom:0px !important;
+	margin-bottom: 1.5em !important;
+	margin-top:0px !important;
+	border: none !important;
+}
+ul.contact_information li.item-ci p {
+	margin-bottom:0px !important;
+}
+
+.contact_information.ci_icon .item-ci {
+	position: relative !important;
+    padding-left: 30px;
+}
+
+.contact_information.ci_icon .item-ci::before {
+	display: inline-block !important;
+	color: #030303;
+	-webkit-font-smoothing: antialiased;
+	font: normal 20px/1 'dashicons' !important;	
+	vertical-align: top !important;
+	padding-right: 5px !important;
+	position: absolute !important;
+    top: 3px !important;
+    left: 0px !important;;
+}
+
+.contact_information.ci_icon .item-ci.item-ci-company::before { 
+	content: "\f512";
+}
+.contact_information.ci_icon .item-ci.item-ci-aboutus::before { 
+	content: "\f122";
+}
+.contact_information.ci_icon .item-ci.item-ci-address::before { 
+	content: "\f230";
+}
+.contact_information.ci_icon .item-ci.item-ci-phone::before { 
+	content: "\f525";
+}
+.contact_information.ci_icon .item-ci.item-ci-mobile::before { 
+	content: "\f470";
+}
+.contact_information.ci_icon .item-ci.item-ci-email::before { 
+	content: "\f465";
+}
+
+.contact_information.ci_icon .item-ci.item-ci-fax::before { 
+	content: "\f106";
+}
+
+.contact_information.ci_icon .item-ci.item-ci-website::before { 
+	content: "\f319";
+}
+
+.contact_information .item-ci.item-ci-company {
+	order:1;
+}
+.contact_information .item-ci.item-ci-aboutus {
+	order:2;
+}
+.contact_information .item-ci.item-ci-address {
+	order:3;
+}
+.contact_information .item-ci.item-ci-phone {
+	order:4;
+}
+.contact_information .item-ci.item-ci-mobile {
+	order:5;
+}
+.contact_information .item-ci.item-ci-email {
+	order:6;
+}
+.contact_information .item-ci.item-ci-fax {
+	order:7;
+}
+.contact_information .item-ci-website {
+	order:8;
+}
+.contact_information .item-ci-map_url {
+	order:9;
+}
+ 
+.contact_information.ci_label .label-ci::after {
+    content: attr(data-label) ":";
+    display: inline-block !important;
+    font-weight: 600 !important;
+}
+.contact_information.ci_label .label-ci.label-ci-map_url {
+	display: none !important;
+} 

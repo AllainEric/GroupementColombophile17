@@ -1,0 +1,371 @@
+# Translation of Plugins - WPFront Scroll Top - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WPFront Scroll Top - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-29 12:46:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WPFront Scroll Top - Stable (latest release)\n"
+
+#: classes/base/class-wpfront-base-menu.php:55
+msgid "Description"
+msgstr "Description"
+
+#: classes/base/class-wpfront-base-menu.php:177
+msgid "Activate"
+msgstr "Activer"
+
+#: templates/options-template.php:261
+msgid "Filter"
+msgstr "Filtre"
+
+#: templates/options-template.php:34
+msgid "Display"
+msgstr "Afficher"
+
+#: classes/class-wpfront-scroll-top-options.php:64
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: classes/class-wpfront-scroll-top-options.php:41
+msgid "Enabled"
+msgstr "Activé"
+
+#: classes/class-wpfront-scroll-top-options.php:63
+#: templates/options-template.php:170
+msgid "Text"
+msgstr "Texte"
+
+#: classes/base/class-wpfront-base.php:197
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: classes/base/class-wpfront-base-menu.php:199
+msgid "Feedback"
+msgstr "Retour"
+
+#: classes/base/class-wpfront-base-menu.php:175
+#: classes/base/class-wpfront-base.php:105
+msgid "Settings"
+msgstr "Réglages"
+
+#: classes/class-wpfront-scroll-top-options.php:59
+#: templates/options-template.php:226
+msgid "Location"
+msgstr "Emplacement"
+
+#: templates/options-template.php:234
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+#: templates/options-template.php:236
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: templates/options-template.php:235
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: classes/class-wpfront-scroll-top-options.php:65
+msgid "Background Color"
+msgstr "Couleur d&rsquo;arrière plan"
+
+#: templates/options-template.php:333
+msgid "Custom URL"
+msgstr "URL personnalisée"
+
+#: classes/base/class-wpfront-base-menu.php:154
+msgid "Details"
+msgstr "Détails"
+
+#: classes/class-wpfront-scroll-top-options.php:66
+msgid "Custom CSS"
+msgstr "CSS personnalisée"
+
+#: classes/base/class-wpfront-base-menu.php:173
+msgid "Installed"
+msgstr "Installé"
+
+#: classes/base/class-wpfront-base-menu.php:147
+msgid "By %s"
+msgstr "Par %s"
+
+#: classes/base/class-wpfront-base-menu.php:52
+msgid "Name"
+msgstr "Nom"
+
+#: classes/base/class-wpfront-base.php:130
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les droits suffisants pour accéder à cette page."
+
+#: classes/base/class-wpfront-base-menu.php:163
+msgid "Install %s"
+msgstr "Installer %s"
+
+#: classes/base/class-wpfront-base-menu.php:163
+msgid "Install Now"
+msgstr "Installez maintenant"
+
+#: templates/options-template.php:168 templates/options-template.php:317
+msgid "Image"
+msgstr "Image"
+
+#: classes/base/class-wpfront-base-menu.php:53
+msgid "Version"
+msgstr "Version"
+
+#: classes/class-wpfront-scroll-top-options.php:45
+msgid "Button Opacity"
+msgstr "Opacité du Bouton"
+
+#: classes/class-wpfront-scroll-top-options.php:55
+msgid "Image ALT"
+msgstr "Texte alternatif de l'image"
+
+#: classes/class-wpfront-scroll-top-options.php:68
+msgid "Display on Pages"
+msgstr "Afficher sur les pages"
+
+#: classes/class-wpfront-scroll-top.php:249
+#: classes/class-wpfront-scroll-top.php:253
+msgid "[Page]"
+msgstr "[Page]"
+
+#: classes/class-wpfront-scroll-top.php:258
+msgid "[Post]"
+msgstr "[Article]"
+
+#: templates/options-template.php:247 templates/options-template.php:256
+msgid "[Negative value allowed.]"
+msgstr "[Valeur négative autorisée.]"
+
+#: templates/options-template.php:270
+msgid "All pages."
+msgstr "Toutes les pages."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpfront.com/scroll-top-plugin/"
+msgstr "http://wpfront.com/scroll-top-plugin/"
+
+#. Author URI of the plugin/theme
+msgid "http://wpfront.com"
+msgstr "http://wpfront.com"
+
+#. Author of the plugin/theme
+msgid "Syam Mohan"
+msgstr "Syam Mohan"
+
+#: classes/base/class-wpfront-base-menu.php:54
+msgid "Rating"
+msgstr "Note"
+
+#: templates/options-template.php:295
+msgid "Exclude in following pages"
+msgstr "Exclure des pages suivantes"
+
+#: templates/options-template.php:275
+msgid "Include in following pages"
+msgstr "Inclure dans les pages suivantes"
+
+#: templates/options-template.php:237
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#. Description of the plugin/theme
+msgid "Allows the visitor to easily scroll back to the top of the page."
+msgstr "Permet aux visiteurs de facilement remonter en haut de la page."
+
+#: classes/class-wpfront-scroll-top.php:249
+msgid "Home"
+msgstr "Accueil"
+
+#: classes/base/class-wpfront-base-menu.php:168
+msgid "Update Now"
+msgstr "Mettre à jour maintenant"
+
+#: classes/base/class-wpfront-base-menu.php:168
+msgid "Update to version %s"
+msgstr "Mettre à jour avec la version %s"
+
+#: classes/base/class-wpfront-base-menu.php:154
+msgid "More information about %s"
+msgstr "Plus d'informations à propos de %s"
+
+#: classes/class-wpfront-scroll-top-options.php:54
+msgid "Button Style"
+msgstr "Style du bouton"
+
+#: classes/class-wpfront-scroll-top-options.php:47
+msgid "Scroll Duration"
+msgstr "Durée de défilement"
+
+#: classes/class-wpfront-scroll-top-options.php:52
+msgid "Hide on Small Window"
+msgstr "Masquer pour les petites fenêtres"
+
+#: classes/class-wpfront-scroll-top-options.php:53
+msgid "Small Window Max Width"
+msgstr "Largeur maximale des petites fenêtres"
+
+#: classes/class-wpfront-scroll-top-options.php:60
+msgid "Margin X"
+msgstr "Marge X"
+
+#: classes/class-wpfront-scroll-top-options.php:61
+msgid "Margin Y"
+msgstr "Marge Y"
+
+#: templates/options-template.php:32
+msgid "WPFront Scroll Top Settings"
+msgstr "Réglages de WPFront Scroll Top"
+
+#: templates/options-template.php:55
+msgid "Button Size"
+msgstr "Taille du bouton"
+
+#: templates/options-template.php:184
+msgid "Text Button"
+msgstr "Texte du bouton"
+
+#: classes/class-wpfront-scroll-top-options.php:56
+msgid "Hide on WP-ADMIN"
+msgstr "Masquer dans l'administration"
+
+#: classes/class-wpfront-scroll-top-options.php:57
+msgid "Hide on iframes"
+msgstr "Masquer sur les iframes"
+
+#: templates/options-template.php:159
+msgid "[Button will be hidden on iframes, usually inside popups.]"
+msgstr "[Le bouton sera masqué dans les iframes, en particulier dans les popups.]"
+
+#: templates/options-template.php:150
+msgid "[Button will be hidden on 'wp-admin'.]"
+msgstr "[Le bouton sera masqué dans l’administration 'wp-admin'.]"
+
+#: templates/options-template.php:141
+msgid "[Button will be hidden on browser window with lesser or equal width.]"
+msgstr "[Le bouton sera masqué dans les fenêtres des navigateurs ayant une largeur plus inférieure ou égale.]"
+
+#: templates/options-template.php:132
+msgid "[Button will be hidden on broswer window when the width matches.]"
+msgstr "[Le bouton sera masqué dans les fenêtres des navigateurs quand la largeur correspondra.]"
+
+#: classes/class-wpfront-scroll-top-options.php:51
+msgid "Small Device Max Width"
+msgstr "Largeur maximale pour les petits écrans"
+
+#: classes/class-wpfront-scroll-top-options.php:50
+msgid "Hide on Small Devices"
+msgstr "Masquer pour les petits écrans"
+
+#: classes/class-wpfront-scroll-top-options.php:48
+msgid "Auto Hide"
+msgstr "Masquer automatiquement"
+
+#: classes/class-wpfront-scroll-top-options.php:49
+msgid "Auto Hide After"
+msgstr "Masquer automatiquement après"
+
+#: templates/options-template.php:50
+msgid "[Number of pixels to be scrolled before the button appears.]"
+msgstr "[Nombre de pixels devant être défilés avant que le bouton apparaisse."
+
+#: templates/options-template.php:61
+msgid "[Set 0px to auto fit.]"
+msgstr "[Saisissez 0px pour un ajustement automatique.]"
+
+#: classes/base/class-wpfront-base.php:180
+msgid "Buy me a Beer or Coffee"
+msgstr "Payez moi une bière ou un café"
+
+#: classes/base/class-wpfront-base.php:178
+msgid "Contact Me"
+msgstr "Me contacter"
+
+#: classes/base/class-wpfront-base.php:170
+msgid "Plugin FAQ"
+msgstr "FAQ de l’extension"
+
+#: classes/base/class-wpfront-base.php:168
+msgid "Settings Description"
+msgstr "Description des réglages"
+
+#: classes/base/class-wpfront-base-menu.php:217
+msgid "All Plugins"
+msgstr "Toutes les extensions"
+
+#: classes/class-wpfront-scroll-top.php:63
+msgid "Scroll Top"
+msgstr "Défiler vers le haut"
+
+#: templates/options-template.php:123
+msgid "[Button will be hidden on devices with lesser or equal width.]"
+msgstr "[Le bouton sera masqué sur les écrans avec une largeur inférieure ou égale.]"
+
+#: templates/options-template.php:114
+msgid "[Button will be hidden on small devices when the width matches.]"
+msgstr "[Le bouton sera masqué sur les petits écrans quand la largeur correspond.]"
+
+#: templates/options-template.php:105
+msgid "[Button will be auto hidden after this duration in seconds, if enabled.]"
+msgstr "[Le bouton sera masqué automatiquement après cette durée en secondes, si activé.]"
+
+#: templates/options-template.php:88
+msgid "[Window scroll duration in milliseconds.]"
+msgstr "[Durée de fenêtre de défilement en millisecondes.]"
+
+#: templates/options-template.php:79
+msgid "[Button fade duration in milliseconds.]"
+msgstr "[Durée d’estompement du bouton en millisecondes]"
+
+#. #-#-#-#-#  tmp-wpfront-scroll-top.pot (WPFront Scroll Top 1.4.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: classes/class-wpfront-scroll-top.php:63
+msgid "WPFront Scroll Top"
+msgstr "WPFront Scroll Top"
+
+#: classes/class-wpfront-scroll-top-options.php:46
+msgid "Button Fade Duration"
+msgstr "Durée d’estompement du bouton"
+
+#: classes/class-wpfront-scroll-top-options.php:42
+msgid "Scroll Offset"
+msgstr "Offset de défilement"
+
+#: classes/base/class-wpfront-base.php:176
+msgid "Write Review"
+msgstr "Rédiger un avis"
+
+#: classes/base/class-wpfront-base.php:174
+msgid "Report Bug"
+msgstr "Reporter un bogue"
+
+#: classes/base/class-wpfront-base.php:172
+msgid "Feature Request"
+msgstr "Demander une fonction"
+
+#: classes/base/class-wpfront-base.php:150
+msgid "If you have a caching plugin, clear the cache for the new settings to take effect."
+msgstr "Si vous avez une extension de cache, videz le cache pour que les nouveaux réglages prennent effet."
+
+#: classes/base/class-wpfront-base-menu.php:216
+msgid "WPFront"
+msgstr "WPFront"
+
+#: classes/base/class-wpfront-base-menu.php:123
+#: classes/base/class-wpfront-base-menu.php:217
+msgid "WPFront Plugins"
+msgstr "Extensions WPFront"
+
+#: classes/base/class-wpfront-base-menu.php:105
+msgid "Unable to communicate with WordPress.org"
+msgstr "Impossible de communiquer avec WordPress.org"
+
+#: classes/base/class-wpfront-base-menu.php:69
+msgid "based on %s rating(s)"
+msgstr "sur la base de %s note(s)"

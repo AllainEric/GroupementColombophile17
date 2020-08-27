@@ -1,0 +1,33 @@
+[27-Jul-2020 14:56:18 UTC] PHP Warning:  unlink(): http does not allow unlinking in /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-settings-importer.php on line 28
+[27-Jul-2020 14:56:18 UTC] PHP Stack trace:
+[27-Jul-2020 14:56:18 UTC] PHP   1. {main}() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-admin/admin-ajax.php:0
+[27-Jul-2020 14:56:18 UTC] PHP   2. do_action() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-admin/admin-ajax.php:175
+[27-Jul-2020 14:56:18 UTC] PHP   3. WP_Hook->do_action() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/plugin.php:478
+[27-Jul-2020 14:56:18 UTC] PHP   4. WP_Hook->apply_filters() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/class-wp-hook.php:311
+[27-Jul-2020 14:56:18 UTC] PHP   5. OceanWP_Demos->ajax_import_theme_settings() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/class-wp-hook.php:287
+[27-Jul-2020 14:56:18 UTC] PHP   6. OWP_Settings_Importer->process_import_file() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-content/plugins/ocean-extra/includes/panel/demos.php:1210
+[27-Jul-2020 14:56:18 UTC] PHP   7. unlink() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-settings-importer.php:28
+[12-Aug-2020 15:41:50 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wordpress.org/support/forums/">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur de votre serveur.) in /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/update.php on line 388
+[12-Aug-2020 15:41:50 UTC] PHP Stack trace:
+[12-Aug-2020 15:41:50 UTC] PHP   1. {main}() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-cron.php:0
+[12-Aug-2020 15:41:50 UTC] PHP   2. do_action_ref_array() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-cron.php:138
+[12-Aug-2020 15:41:50 UTC] PHP   3. WP_Hook->do_action() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/plugin.php:544
+[12-Aug-2020 15:41:50 UTC] PHP   4. WP_Hook->apply_filters() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/class-wp-hook.php:311
+[12-Aug-2020 15:41:50 UTC] PHP   5. wp_update_plugins() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/class-wp-hook.php:287
+[12-Aug-2020 15:41:50 UTC] PHP   6. trigger_error() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/update.php:388
+[12-Aug-2020 15:41:51 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wordpress.org/support/forums/">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur de votre serveur.) in /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/update.php on line 578
+[12-Aug-2020 15:41:51 UTC] PHP Stack trace:
+[12-Aug-2020 15:41:51 UTC] PHP   1. {main}() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-cron.php:0
+[12-Aug-2020 15:41:51 UTC] PHP   2. do_action_ref_array() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-cron.php:138
+[12-Aug-2020 15:41:51 UTC] PHP   3. WP_Hook->do_action() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/plugin.php:544
+[12-Aug-2020 15:41:51 UTC] PHP   4. WP_Hook->apply_filters() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/class-wp-hook.php:311
+[12-Aug-2020 15:41:51 UTC] PHP   5. wp_update_themes() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/class-wp-hook.php:287
+[12-Aug-2020 15:41:51 UTC] PHP   6. trigger_error() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/update.php:578
+[12-Aug-2020 15:43:54 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wordpress.org/support/forums/">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur de votre serveur.) in /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/update.php on line 162
+[12-Aug-2020 15:43:54 UTC] PHP Stack trace:
+[12-Aug-2020 15:43:54 UTC] PHP   1. {main}() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-cron.php:0
+[12-Aug-2020 15:43:54 UTC] PHP   2. do_action_ref_array() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-cron.php:138
+[12-Aug-2020 15:43:54 UTC] PHP   3. WP_Hook->do_action() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/plugin.php:544
+[12-Aug-2020 15:43:54 UTC] PHP   4. WP_Hook->apply_filters() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/class-wp-hook.php:311
+[12-Aug-2020 15:43:54 UTC] PHP   5. wp_version_check() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/class-wp-hook.php:287
+[12-Aug-2020 15:43:54 UTC] PHP   6. trigger_error() /Users/eric/Local Sites/groupement-colombophile-de-la-charente-maritime/app/public/wp-includes/update.php:162

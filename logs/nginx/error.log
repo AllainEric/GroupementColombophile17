@@ -1,0 +1,81 @@
+2020/08/10 18:18:45 [emerg] 67620#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:18:45 [emerg] 67620#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:18:45 [emerg] 67620#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:18:45 [emerg] 67620#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:18:45 [emerg] 67620#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:18:45 [emerg] 67620#0: still could not bind()
+2020/08/10 18:23:56 [emerg] 67872#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:23:56 [emerg] 67872#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:23:56 [emerg] 67872#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:23:56 [emerg] 67872#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:23:56 [emerg] 67872#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:23:56 [emerg] 67872#0: still could not bind()
+2020/08/10 18:23:59 [emerg] 67889#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:23:59 [emerg] 67889#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:24:35 [crit] 67869#0: *1 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9249169826507568359375 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9249169826507568359375"
+2020/08/10 18:24:36 [crit] 67869#0: *3 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9249598979949951171875 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9249598979949951171875"
+2020/08/10 18:24:36 [crit] 67869#0: *5 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9275920391082763671875 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9275920391082763671875"
+2020/08/10 18:24:36 [crit] 67869#0: *7 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9302880764007568359375 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9302880764007568359375"
+2020/08/10 18:24:36 [crit] 67869#0: *9 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9249711036682128906250 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9249711036682128906250"
+2020/08/10 18:24:36 [crit] 67869#0: *11 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9275469779968261718750 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9275469779968261718750"
+2020/08/10 18:24:36 [crit] 67869#0: *13 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9277029037475585937500 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9277029037475585937500"
+2020/08/10 18:24:36 [crit] 67869#0: *15 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9277470111846923828125 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9277470111846923828125"
+2020/08/10 18:24:36 [crit] 67869#0: *17 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1597080274.9251699447631835937500 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-cron.php?doing_wp_cron=1597080274.9251699447631835937500"
+2020/08/10 18:25:40 [emerg] 67985#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:40 [emerg] 67985#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:40 [emerg] 67985#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:40 [emerg] 67985#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:40 [emerg] 67985#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:40 [emerg] 67985#0: still could not bind()
+2020/08/10 18:25:43 [emerg] 68008#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:43 [emerg] 68008#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:43 [emerg] 68008#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:43 [emerg] 68008#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:43 [emerg] 68008#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:43 [emerg] 68008#0: still could not bind()
+2020/08/10 18:25:46 [emerg] 68010#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:46 [emerg] 68010#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:46 [emerg] 68010#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:46 [emerg] 68010#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:46 [emerg] 68010#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:46 [emerg] 68010#0: still could not bind()
+2020/08/10 18:25:49 [emerg] 68013#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:49 [emerg] 68013#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:49 [emerg] 68013#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:49 [emerg] 68013#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:49 [emerg] 68013#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/10 18:25:49 [emerg] 68013#0: still could not bind()
+2020/08/11 10:47:26 [crit] 67869#0: *1474 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/"
+2020/08/12 16:32:06 [crit] 67869#0: *1478 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/"
+2020/08/12 16:41:10 [emerg] 8069#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:10 [emerg] 8069#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:10 [emerg] 8069#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:10 [emerg] 8069#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:10 [emerg] 8069#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:10 [emerg] 8069#0: still could not bind()
+2020/08/12 16:41:15 [emerg] 8085#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:15 [emerg] 8085#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:15 [emerg] 8085#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:15 [emerg] 8085#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:15 [emerg] 8085#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:15 [emerg] 8085#0: still could not bind()
+2020/08/12 16:41:19 [emerg] 8093#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:19 [emerg] 8093#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:19 [emerg] 8093#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:19 [emerg] 8093#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:19 [emerg] 8093#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:19 [emerg] 8093#0: still could not bind()
+2020/08/12 16:41:22 [emerg] 8097#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:22 [emerg] 8097#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:22 [emerg] 8097#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:22 [emerg] 8097#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:22 [emerg] 8097#0: bind() to 0.0.0.0:10003 failed (48: Address already in use)
+2020/08/12 16:41:22 [emerg] 8097#0: still could not bind()
+2020/08/15 12:04:57 [crit] 67869#0: *2470 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/admin.php?page=fmgc-about HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-admin/widgets.php"
+2020/08/19 10:57:26 [crit] 10304#0: *1 connect() to unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/?cache-buster=1682 HTTP/1.0", upstream: "fastcgi://unix:/Users/eric/Library/Application Support/Local/run/LmV8BG56C/php/php-fpm.socket:", host: "groupement-colombophile-de-la-charente-maritime.local"
+2020/08/20 17:06:17 [alert] 3023#0: *12793 writev() failed (41: Protocol wrong type for socket) while sending response to client, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/2020/08/lacher-de-pigeons-2020.mp4 HTTP/1.0", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-admin/post.php?post=1901&action=edit"
+2020/08/22 09:19:01 [alert] 5019#0: *1142 writev() failed (41: Protocol wrong type for socket) while sending response to client, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/2020/08/lacher-de-pigeons-2020.mp4 HTTP/1.0", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/cest-quoi-etre-colombophile/"
+2020/08/25 10:20:44 [alert] 1751#0: *1055 writev() failed (41: Protocol wrong type for socket) while sending response to client, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/2020/08/lacher-de-pigeons-2020.mp4 HTTP/1.0", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/groupement-colombophile-de-charente-maritime/"
+2020/08/25 11:17:51 [alert] 1751#0: *5916 writev() failed (41: Protocol wrong type for socket) while sending response to client, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/2020/08/L%C3%A2cher-de-pigeons-voyageurs-en-Sarthe.mp4?_=1 HTTP/1.0", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/wp-admin/post.php?post=1417&action=edit"
+2020/08/25 16:08:15 [alert] 1751#0: *17303 writev() failed (41: Protocol wrong type for socket) while sending response to client, client: 127.0.0.1, server: , request: "GET /wp-content/themes/twentynineteen/style.css?ver=1.6 HTTP/1.0", host: "groupement-colombophile-de-la-charente-maritime.local"
+2020/08/26 16:46:50 [alert] 6344#0: *1795 writev() failed (41: Protocol wrong type for socket) while sending response to client, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/2020/08/L%C3%A2cher-de-pigeons-voyageurs-en-Sarthe.mp4?_=1 HTTP/1.0", host: "groupement-colombophile-de-la-charente-maritime.local", referrer: "http://groupement-colombophile-de-la-charente-maritime.local/comment-devenir-colombophile/"

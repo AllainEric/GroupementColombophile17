@@ -1,0 +1,381 @@
+# Translation of Plugins - WP Subscribe - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP Subscribe - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-01 12:39:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP Subscribe - Stable (latest release)\n"
+
+#: wp-subscribe.php:323
+msgid "No lists found."
+msgstr "Aucune liste trouvée."
+
+#: wp-subscribe.php:305
+msgid "Service not defined."
+msgstr "Service non défini."
+
+#: wp-subscribe.php:296
+msgid "Not permitted."
+msgstr "Non permis."
+
+#: wp-subscribe.php:261
+msgid "Unknown mailing service called."
+msgstr "Service d’e-mailing appelé inconnu."
+
+#: wp-subscribe.php:252
+msgid "Not a valid email address."
+msgstr "N’est pas une adresse e-mail valide."
+
+#: wp-subscribe.php:245
+msgid "No email address found."
+msgstr "Aucune adresse e-mail trouvée."
+
+#: wp-subscribe.php:237
+msgid "No data found."
+msgstr "Aucune donnée trouvée."
+
+#: wp-subscribe.php:61 wp-subscribe.php:68
+msgid "Cheatin&#8217; huh?"
+msgstr "Une fausse manipulation ?"
+
+#: includes/wps-widget.php:362
+msgid "Get list"
+msgstr "Obtenir une liste"
+
+#: includes/wps-widget.php:291 includes/wps-widget.php:366
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: includes/wps-widget.php:172
+msgid "Include <strong>Name</strong> field"
+msgstr "Inclure le champ <strong>Nom</strong>"
+
+#: includes/wps-widget.php:54
+msgid "Enter your name here"
+msgstr "Saisissez votre nom ici"
+
+#: includes/wps-widget.php:50
+msgid "Get more stuff"
+msgstr "Obtenez plus de trucs"
+
+#: includes/wps-helpers.php:275
+msgid "zoomInRight"
+msgstr "zommer vers la droite"
+
+#: includes/wps-helpers.php:276
+msgid "zoomInUp"
+msgstr "zoomer vers le haut"
+
+#: includes/wps-helpers.php:274
+msgid "zoomInLeft"
+msgstr "zoomer vers la gauche"
+
+#: includes/wps-helpers.php:273
+msgid "zoomInDown"
+msgstr "eoomer vers le bas"
+
+#: includes/wps-helpers.php:272
+msgid "zoomIn"
+msgstr "zoomer"
+
+#: includes/wps-helpers.php:271
+msgid "Zoom Entrances"
+msgstr "Zoomer les entrées"
+
+#: includes/wps-helpers.php:269
+msgid "rollIn"
+msgstr "rouler"
+
+#: includes/wps-helpers.php:268
+msgid "Specials"
+msgstr "Spéciaux"
+
+#: includes/wps-helpers.php:266
+msgid "rotateInUpRight"
+msgstr "rotation supérieure droite"
+
+#: includes/wps-helpers.php:264
+msgid "rotateInDownRight"
+msgstr "rotation inférieure droite"
+
+#: includes/wps-helpers.php:265
+msgid "rotateInUpLeft"
+msgstr "rotation supérieure gauche"
+
+#: includes/wps-helpers.php:263
+msgid "rotateInDownLeft"
+msgstr "rotation inférieure gauche"
+
+#: includes/wps-helpers.php:262
+msgid "rotateIn"
+msgstr "rotation"
+
+#: includes/wps-helpers.php:261
+msgid "Rotating Entrances"
+msgstr "rotation des entrées"
+
+#: includes/wps-helpers.php:259
+msgid "lightSpeedIn"
+msgstr "vitesse de la lumière entrante"
+
+#: includes/wps-helpers.php:258
+msgid "Lightspeed"
+msgstr "Vitesse de la lumière"
+
+#: includes/wps-helpers.php:256
+msgid "flipInY"
+msgstr "retournement en Y"
+
+#: includes/wps-helpers.php:255
+msgid "flipInX"
+msgstr "retournement en X"
+
+#: includes/wps-helpers.php:254
+msgid "Flippers"
+msgstr "Secousses"
+
+#: includes/wps-helpers.php:251
+msgid "fadeInUp"
+msgstr "fondu entrant haut"
+
+#: includes/wps-helpers.php:252
+msgid "fadeInUpBig"
+msgstr "gros fondu entrant haut"
+
+#: includes/wps-helpers.php:250
+msgid "fadeInRightBig"
+msgstr "gros fondu entrant droit"
+
+#: includes/wps-helpers.php:249
+msgid "fadeInRight"
+msgstr "fondu entrant droit"
+
+#: includes/wps-helpers.php:248
+msgid "fadeInLeftBig"
+msgstr "gros fondu entrant gauche"
+
+#: includes/wps-helpers.php:247
+msgid "fadeInLeft"
+msgstr "fondu entrant gauche"
+
+#: includes/wps-helpers.php:246
+msgid "fadeInDownBig"
+msgstr "gros fondu entrant bas"
+
+#: includes/wps-helpers.php:245
+msgid "fadeInDown"
+msgstr "fondu entrant bas"
+
+#: includes/wps-helpers.php:244
+msgid "fadeIn"
+msgstr "fondu entrant"
+
+#: includes/wps-helpers.php:243
+msgid "Fading Entrances"
+msgstr "Entrées en fondu"
+
+#: includes/wps-helpers.php:241
+msgid "bounceInUp"
+msgstr "rebond entrant vers le haut"
+
+#: includes/wps-helpers.php:240
+msgid "bounceInRight"
+msgstr "rebond entrant vers la droite"
+
+#: includes/wps-helpers.php:239
+msgid "bounceInLeft"
+msgstr "rebond entrant vers la gauche"
+
+#: includes/wps-helpers.php:238
+msgid "bounceInDown"
+msgstr "rebond entrant vers le bas"
+
+#: includes/wps-helpers.php:237
+msgid "bounceIn"
+msgstr "rebond entrant"
+
+#: includes/wps-helpers.php:236
+msgid "Bouncing Entrances"
+msgstr "Entrées rebondissantes"
+
+#: includes/wps-helpers.php:234
+msgid "wobble"
+msgstr "osciller"
+
+#: includes/wps-helpers.php:233
+msgid "tada"
+msgstr "tada"
+
+#: includes/wps-helpers.php:232
+msgid "swing"
+msgstr "balancer"
+
+#: includes/wps-helpers.php:231
+msgid "shake"
+msgstr "secouer"
+
+#: includes/wps-helpers.php:230
+msgid "rubberBand"
+msgstr "élastique"
+
+#: includes/wps-helpers.php:229
+msgid "pulse"
+msgstr "impulsion"
+
+#: includes/wps-helpers.php:228
+msgid "flash"
+msgstr "flash"
+
+#: includes/wps-helpers.php:227
+msgid "bounce"
+msgstr "rebond"
+
+#: includes/wps-helpers.php:226
+msgid "Attention Seekers"
+msgstr "Chercheurs d’attention"
+
+#: includes/wps-helpers.php:225
+msgid "No Animation"
+msgstr "Aucune animation"
+
+#: includes/wps-functions-options.php:30
+msgid "Adds subscribers to your MailChimp account."
+msgstr "Ajoute des abonnés à votre compte MailChimp."
+
+#: includes/wps-functions-options.php:29
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: includes/wps-functions-options.php:24
+msgid "Adds subscribers to your FeedBurner account."
+msgstr "Ajoute des abonnées à votre compte FeedBurner."
+
+#: includes/wps-functions-options.php:23
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: includes/subscription/class-wps-mailchimp.php:72
+msgid "MailChimp List"
+msgstr "Liste MailChimp"
+
+#: includes/subscription/class-wps-mailchimp.php:64
+msgid "The API key of your MailChimp account."
+msgstr "La clé d’API de votre compte MailChimp."
+
+#: includes/subscription/class-wps-mailchimp.php:63
+msgid "MailChimp API URL"
+msgstr "URL de l’API MailChimp"
+
+#: includes/subscription/class-wps-mailchimp.php:73
+#: includes/subscription/class-wps-aweber.php:204
+msgid "Select List"
+msgstr "Sélectionnez une liste"
+
+#: includes/subscription/class-wps-aweber.php:203
+msgid "AWeber List"
+msgstr "Liste AWeber"
+
+#: includes/wps-functions-options.php:18
+msgid "Adds subscribers to your Aweber account."
+msgstr "Ajoute des abonnées à votre compte AWeber."
+
+#: includes/wps-functions-options.php:17
+msgid "Aweber"
+msgstr "AWeber"
+
+#: includes/subscription/class-wps-aweber.php:231
+msgid "<a href=\"#\" class=\"aweber_disconnect\">Click here</a> <span>to disconnect.</span>"
+msgstr "<a href=\"#\" class=\"aweber_disconnect\">Cliquez ici</a> <span>pour déconnecter.</span>"
+
+#: includes/subscription/class-wps-aweber.php:230
+msgid "Your Aweber Account is connected."
+msgstr "Votre compte AWeber est connecté."
+
+#: includes/subscription/class-wps-aweber.php:221
+msgid "<span>2.</span> Copy and paste the authorization code in the field below."
+msgstr "<span>2.</span> Copiez et collez le code d’autorisation dans le champ ci-dessous."
+
+#: includes/subscription/class-wps-aweber.php:220
+msgid "<span>1.</span> <a href=\"%s\" target=\"_blank\">Click here</a> <span>to open the authorization page and log in.</span>"
+msgstr "<span>1.</span> <a href=\"%s\" target=\"_blank\">Cliquez ici</a> <span>pour ouvrir page d’autorisation et vous connecter.</span>"
+
+#: includes/subscription/class-wps-aweber.php:217
+msgid "To connect your Aweber account:"
+msgstr "Pour connecter votre compte AWeber :"
+
+#: includes/subscription/class-wps-aweber.php:77
+msgid "Unable to connect your Aweber Account. The Authorization Code is incorrect."
+msgstr "Impossible de connecter votre compte AWeber. Le code d’autorisation n’est pas correct."
+
+#: includes/subscription/class-wps-aweber.php:67
+msgid "Unable to connect to Aweber. The Authorization Code is empty."
+msgstr "Impossible de connecter votre compte AWeber. Le code d’autorisation est vide."
+
+#: includes/wps-widget.php:178
+msgid "Labels"
+msgstr "Libellés"
+
+#. Author of the plugin
+msgid "MyThemeShop"
+msgstr "MyThemeShop"
+
+#. Plugin Name of the plugin
+msgid "WP Subscribe"
+msgstr "WP Subscribe"
+
+#. Author URI of the plugin
+msgid "http://mythemeshop.com/"
+msgstr "http://mythemeshop.com/"
+
+#. Plugin URI of the plugin
+msgid "http://mythemeshop.com/plugins/wp-subscribe/"
+msgstr "http://mythemeshop.com/plugins/wp-subscribe/"
+
+#. Description of the plugin
+msgid "WP Subscribe is a simple but powerful subscription plugin which supports MailChimp, Aweber and Feedburner."
+msgstr "WP Subscribe est une extension d’abonnement simple mais puissante qui supporte MailChimp, Aweber et Feedburner."
+
+#: includes/wps-widget.php:58
+msgid "we respect your privacy and take protecting it seriously"
+msgstr "nous respectons votre vie privée et prenons au sérieux sa protection"
+
+#: includes/wps-widget.php:57
+msgid "Something went wrong."
+msgstr "Quelque chose s’est mal passé."
+
+#: includes/wps-widget.php:56
+msgid "Thank you for subscribing."
+msgstr "Merci pour votre abonnement."
+
+#: includes/wps-widget.php:55
+msgid "Sign Up Now"
+msgstr "S’inscrire maintenant"
+
+#: includes/wps-widget.php:52
+msgid "Enter your email here"
+msgstr "Saisissez votre e-mail ici"
+
+#: includes/wps-widget.php:51
+msgid "Subscribe to our mailing list and get interesting stuff and updates to your email inbox."
+msgstr "Abonnez-vous à notre liste d’e-mailing et obtenez des astuces intéressantes et les mises à jour dans votre boîte e-mail."
+
+#: includes/subscription/class-wps-mailchimp.php:81
+msgid "Send double opt-in notification"
+msgstr "Envoyer une notification de double opt-in"
+
+#: includes/subscription/class-wps-feedburner.php:46
+msgid "Feedburner ID"
+msgstr "ID Feedburner"
+
+#: includes/wps-widget.php:34
+msgid "WP Subscribe Widget"
+msgstr "Widget WP Subscribe"
+
+#: includes/wps-widget.php:23
+msgid "Displays subscription form, supports FeedBurner, MailChimp & AWeber."
+msgstr "Affiche un formulaire d’abonnement, supporte FeedBurner, MailChimp & AWeber."
